@@ -7,6 +7,10 @@ public class Test {
 	public void m2() {
 		System.out.println("m2 from local repository");
 	}
+	public void m3(0
+		{
+		System.out.println("m3 from remote repository");
+	}
 
 	public static void main(String[] args) {
 	
